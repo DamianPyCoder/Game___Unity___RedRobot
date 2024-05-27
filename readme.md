@@ -33,4 +33,3 @@
 
 ## 
 
-Note: This game is developed following a tutorial. I am not the original author of the code, so I only upload the final result in the form of an APK for you to try it out.
