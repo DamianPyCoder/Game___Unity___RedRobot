@@ -1,5 +1,5 @@
 # LITTLE RED ROBOT 3D
-[Download game in Rar file](https://github.com/DamianPyCoder/Unity__Games__x6/tree/main/red_robot_executable)  
+[Download game in Rar file](https://github.com/DamianPyCoder/Game___Unity___RedRobot/tree/main/code)  
 The code is in a privat repository.
 
 ### How to play:
