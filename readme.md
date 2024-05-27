@@ -15,14 +15,18 @@ The code is in a privat repository.
 
 
 ### Screenshots:
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot2.png)
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/robot2.png)
 
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/screenshots/robot6.png)  
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/robot3.png)
+
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/robot4.png)
+
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/robot6.png)  
 
 
 ### Our beloved Red Robot and its enemies:
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/prota.png)
-![](https://github.com/DamianPyCoder/Unity__Games__x6/blob/main/red_robot_executable/assets/enemy.png)  
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/prota.png)
+![](https://github.com/DamianPyCoder/Game___Unity___RedRobot/blob/main/picts/enemy.png)  
 
 
 ## 
